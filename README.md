@@ -1,5 +1,5 @@
 # Run
-В первую очередь git clone -> cd <dir>
+В первую очередь git clone -> cd dir
 
 Далее -> docker compose watch 
 
