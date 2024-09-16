@@ -1,9 +1,11 @@
 # Run
 В первую очередь git clone -> cd dir
 
-Далее -> docker compose watch 
+Далее -> docker compose watch
 
-далее по желанию -> VS Code/notepad++/vi(для извращенцев)
+переходим на http://localhost:3000
+
+далее по желанию -> VS Code/notepad++/vi
 
 меняем любую кнопку в файле (например) app/pages.tsx
 
